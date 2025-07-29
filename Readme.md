@@ -5,5 +5,3 @@ This is a simple blockchain web application built with Flask. It includes:
 - Mining blocks
 - Node registration
 - Blockchain exploration interface
-
-To deploy, use PythonAnywhere or Render.
