@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+a {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: royalblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
